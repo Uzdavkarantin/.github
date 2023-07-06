@@ -1,0 +1,1 @@
+Uzdavkarantin/.github-private
